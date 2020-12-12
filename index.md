@@ -1,2 +1,40 @@
-![index-up-pic](http://apps.suibbs.online/pic/index-pic/uppinc-1.png "上传作品")
-#### 应用
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>随囧 | 这是suijiong的应用商店</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="随囧应用商店" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="这是suijiong的存储库" />
+<meta property="og:description" content="这是suijiong的存储库" />
+<link rel="canonical" href="http://apps.suibbs.online/" />
+<meta property="og:url" content="http://apps.suibbs.online/" />
+<meta property="og:site_name" content="he21o" />
+<script type="application/ld+json">
+{"@type":"WebSite","headline":"he21o","url":"http://apps.suibbs.online/","description":"这是suijiong的存储库","name":"he21o","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=9070d07fd824cfdc6f27883590b897d81e18e3ff">
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="http://apps.suibbs.online/">he21o</a></h1>
+      
+
+      <p><img src="http://apps.suibbs.online/pic/index-pic/uppinc-1.png" alt="index-up-pic" title="上传作品" /></p>
+<h4 id="应用">应用</h4>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+    
+  </body>
+</html>
