@@ -23,3 +23,47 @@
     
 </nav>
 <center><h1>欢迎访问随囧应用商店🙂!</h1></center>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+ @Log(title = "课后评价", businessType = BusinessType.INSERT)
+
+    @PostMapping("/add")
+
+    @ResponseBody
+
+    @ApiOperation(value = "添加评价", httpMethod = "POST")
+
+    @ApiImplicitParams({
+
+            @ApiImplicitParam(paramType = "insert", name = "plCreateuser", value = "用户ID", required = true, dataType = "String"),
+
+            @ApiImplicitParam(paramType = "insert", name = "plCurriculumid", value = "课程编号", required = true, dataType = "Integer"),
+
+            @ApiImplicitParam(paramType = "insert", name = "parentId", value = "父级ID", required = false, dataType = "Integer"),
+
+            @ApiImplicitParam(paramType = "insert", name = "type", value = "评论类型", required = false, dataType = "String"),
+
+            @ApiImplicitParam(paramType = "insert", name = "plImage", value = "图片URL", required = true, dataType = "String")})
+
+    public void addSave(HttpServletResponse response, JrComments jrComments) throws IOException {
+
+        jrComments.setPlId(UUIDUtils.getByUUId());
+
+        jrComments.setPlCreatetime(new Date());
+
+        writeJSON(jrCommentsService.insertJrComments(jrComments), response, "200", "success");
+
+    }
+
