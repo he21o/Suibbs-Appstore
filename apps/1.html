@@ -23,7 +23,25 @@
         
         
 
-<<a href="ftp://mark2020:123456@mark2020.host3v.vip" download="123" >下载软件 </a>|<font face="微软雅黑" size="2" color="black">版本信息：V1.0</font>|<font face="微软雅黑" size="2" color="blue">制作者：随囧</font>
+<<a href="ftp://mark2020:123456@mark2020.host3v.vip" download="123" >下载软件 </a>function download(id){
+		var url; 
+		$.ajax({
+			type: "POST",
+			url: "/download/apps/5rKZ6ZuV6ZiF6K75Zmo.apk",
+			dataType: "json",
+			async: false,
+			data: {id: id}, 
+			error: function(){
+				layMsg("数据获取异常,请联系管理员!");
+			},
+			success: function(data){
+				url=data;
+				console.info(url);
+			}
+		});
+		window.location.href = url;
+	}
+|<font face="微软雅黑" size="2" color="black">版本信息：V1.0</font>|<font face="微软雅黑" size="2" color="blue">制作者：随囧</font>
 
 
 <h4>软件介绍：<h4>
@@ -44,21 +62,3 @@
     </blockquote>
 <p>下载失败把下载链接放到新标签页试试<p>
         
-function download(id){
-		var url; 
-		$.ajax({
-			type: "POST",
-			url: "/download/apps/5rKZ6ZuV6ZiF6K75Zmo.apk",
-			dataType: "json",
-			async: false,
-			data: {id: id}, 
-			error: function(){
-				layMsg("数据获取异常,请联系管理员!");
-			},
-			success: function(data){
-				url=data;
-				console.info(url);
-			}
-		});
-		window.location.href = url;
-	}
