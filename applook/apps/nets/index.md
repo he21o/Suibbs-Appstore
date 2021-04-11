@@ -1,3 +1,5 @@
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><meta name="color-scheme" content="light dark"><meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no, minimal-ui">
+
 <img loading="aaa" src="https://apps.suibbs.online/pic/extreme.png" alt="logo" width="40" height="40"><font face="微软雅黑" size="7.5" color="blue">随囧应用商店</font>
 
 <a href="/#">主页</a>|<a href="/appss">应用</a>|<a href="#">投稿Apk</a>|<a href="/jquery/">搜索</a>
