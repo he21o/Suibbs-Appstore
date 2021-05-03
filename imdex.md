@@ -1,4 +1,4 @@
-<a href="https://apps.suibbs.online"><img loading="aaa" src="https://apps.suibbs.online/pic/extreme.png" alt="logo" width="35" height="35"></a>
+<a href="https://apps.suibbs.online"><img loading="aaa" src="https://apps.suibbs.online/pic/extreme.png" alt="logo" width="35" height="35"><h1>随囧应用商店</h1></a>
 
 <a href="/#">主页</a>|<a href="/appstore">应用</a>|<a href="/nets">投稿Apk</a>|<a href="/jquery/">搜索开发中🌝</a>
 
