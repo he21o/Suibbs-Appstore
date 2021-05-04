@@ -4,7 +4,8 @@
 
 ## APP推荐😺❤️
 
-<a href="/apps/1"><img src="http://image.coolapk.com/apk_logo/2020/1115/16/icon-279015-o_1en5hv9nh72llepfkr1deb1otj1v-uid-3251470@373x373.png" alt="id1" width="35" height="35"><font face="微软雅黑" size="7.5" color="blue">沙雕阅读器</font></a>
+<a href="/apps/1"><img src="https://node.u900.pp01.suijiong.top/image/apps/id1/687474703a2f2f696d6167652e636f6f6c61706b2e636f6d2f61706b5f6c6f676f2f323032302f313131352f31362f69636f6e2d3237393031352d6f5f31656e356876396e6837326c6c6570666b7231646562316f746a31762d7569642d3332353134373040333733783337332e706e67.png
+" alt="id1" width="35" height="35"><font face="微软雅黑" size="7.5" color="blue">沙雕阅读器</font></a>
 
 ## 评分最高🤤🌟
 
